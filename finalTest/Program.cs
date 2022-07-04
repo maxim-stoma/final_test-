@@ -8,3 +8,17 @@
     }
 
 }
+void PrintArray(string[] stringArrayToPrint)
+{
+    Console.Write("[ ");
+    for (int i = 0; i < stringArrayToPrint.Length; i++)
+    {
+        Console.Write(stringArrayToPrint[i]);
+        if (i != stringArrayToPrint.Length - 1)
+        {
+            Console.Write(", ");
+        }
+    }
+    Console.Write(" ]");
+    Console.WriteLine();
+}
