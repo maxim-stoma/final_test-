@@ -48,3 +48,21 @@ string[] FindThreeSymbolElements(string[] threeSymbolElements)
     }
     return result;
 }
+
+Console.Write($"Сколько выдуманных слов будет в твоём словаре? \t");
+int sizeArray = Convert.ToInt32(Console.ReadLine());
+
+if(sizeArray < 0)
+{
+    Console.WriteLine("Ты, по-моему, перепутал...");
+}
+else
+{
+    string[] testArray = new string[sizeArray];
+    SetArray(testArray);
+    Console.Write("Вот это твои выдуманные словечки: ");
+    PrintArray(testArray);
+    string[] threeCharArray = FindThreeSymbolElements(testArray);
+    Console.Write("А вот и самые короткие из них: ");
+    PrintArray(threeCharArray);
+}
