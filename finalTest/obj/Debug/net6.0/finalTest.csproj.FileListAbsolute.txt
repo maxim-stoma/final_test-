@@ -1,0 +1,15 @@
+D:\Documents\Study\Homework\final_test\finalTest\bin\Debug\net6.0\finalTest.exe
+D:\Documents\Study\Homework\final_test\finalTest\bin\Debug\net6.0\finalTest.deps.json
+D:\Documents\Study\Homework\final_test\finalTest\bin\Debug\net6.0\finalTest.runtimeconfig.json
+D:\Documents\Study\Homework\final_test\finalTest\bin\Debug\net6.0\finalTest.dll
+D:\Documents\Study\Homework\final_test\finalTest\bin\Debug\net6.0\finalTest.pdb
+D:\Documents\Study\Homework\final_test\finalTest\obj\Debug\net6.0\finalTest.csproj.AssemblyReference.cache
+D:\Documents\Study\Homework\final_test\finalTest\obj\Debug\net6.0\finalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Study\Homework\final_test\finalTest\obj\Debug\net6.0\finalTest.AssemblyInfoInputs.cache
+D:\Documents\Study\Homework\final_test\finalTest\obj\Debug\net6.0\finalTest.AssemblyInfo.cs
+D:\Documents\Study\Homework\final_test\finalTest\obj\Debug\net6.0\finalTest.csproj.CoreCompileInputs.cache
+D:\Documents\Study\Homework\final_test\finalTest\obj\Debug\net6.0\finalTest.dll
+D:\Documents\Study\Homework\final_test\finalTest\obj\Debug\net6.0\refint\finalTest.dll
+D:\Documents\Study\Homework\final_test\finalTest\obj\Debug\net6.0\finalTest.pdb
+D:\Documents\Study\Homework\final_test\finalTest\obj\Debug\net6.0\finalTest.genruntimeconfig.cache
+D:\Documents\Study\Homework\final_test\finalTest\obj\Debug\net6.0\ref\finalTest.dll
